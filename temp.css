@@ -1,0 +1,36 @@
+.watch{
+    font-size: 47px;
+    font-weight: 900;
+    margin: 15px;
+    margin-left: 0;
+}
+.stream{
+    font-size: 24px;
+    font-weight: 500;
+    margin: 15px;
+    margin-left: 0;
+}
+.rajma > img{
+    width: 39vw;
+    position: relative;
+    z-index: 10;
+}
+.rajma{
+    position: relative;
+}
+.rajma > video{
+    position: absolute;
+    top: 59px;
+    left: 20px ;
+}
+
+@media (max-width :950px){
+    h1{
+        font-size: 32px !important;
+    }
+    span{
+        font-size: 18px !important;
+    }
+    p{
+        font-size: 18px !important;
+    }
